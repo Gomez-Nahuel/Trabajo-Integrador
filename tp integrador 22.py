@@ -1,4 +1,3 @@
-
 import numpy as np
 import matplotlib.pyplot as plt
 import time
@@ -14,7 +13,7 @@ L: Inductancia en henrios
 C: Capacitancia en faradios
 n: Número de puntos de frecuencia (por defecto 1000)
 """
-# Rango de frecuencias (de 1 Hz a 1 MHz)
+# Rango de frecuencias (de 10 Hz a 1 MHz)
 frecuencia = np.logspace(1, 6, 1000)
 omega = 2 * np.pi * frecuencia
 
