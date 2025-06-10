@@ -1,4 +1,4 @@
-# 📊 Análisis de Circuitos RLC y Respuesta en Frecuencia con Python
+# Análisis de Circuitos RLC y Respuesta en Frecuencia con Python
 
 Trabajo Práctico Integrador – **Programación I**  
 Tecnicatura Universitaria en Programación – UTN  
@@ -6,24 +6,36 @@ Fecha de entrega: 09/06/2025
 
 ---
 
-## 👨‍🏫 Integrantes
+## Alumnos
 
 - **Gonzalez Javier** – javiergonzalez@fatimarem.edu.ar  
 - **Gomez Saucedo Augusto Nahuel** – gomeznahuel@hotmail.com
 
+## Usuarios de GitHub
+- **https://github.com/Gomez-Nahuel**
+-**https://github.com/JavierGCF**
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este trabajo práctico integrador aborda el análisis computacional de circuitos RLC en serie mediante simulaciones realizadas con **Python**, utilizando las bibliotecas **NumPy** y **Matplotlib**. Se estudia el comportamiento del circuito en el dominio de la frecuencia, graficando la **magnitud** y **fase de la impedancia**, así como el análisis de la **complejidad temporal (O(n))** del algoritmo implementado.
 
 ---
 
-## 🧠 Contenidos del Informe
+## Contenidos del Informe
 
-El informe principal se encuentra disponible en los siguientes formatos:
+Informe del Trabajo Práctico Integrador en formato pdf
+Presentación Power Point
+Link del Video en youtube
 
-- 📄 [Ver informe en PDF](./Trabajo%20Practico%20Integrador%20(1).pdf)
+- ## Descargar archivos
+
+- [Ver/Descargar el Informe PDF](./Trabajo%20Practico%20Integrador%20Prog.pdf)
+- [Ver/Descargar la Presentación PPTX](./Tp%20programaci%C3%B3n.pptx)
+
+## Ver el video
+
+- [Ver en YouTube: “Trabajo Práctico Integrador”](https://www.youtube.com/watch?app=desktop&v=LrX5tzfpXO4)
 
 ---
 
@@ -36,4 +48,5 @@ Se desarrolló un programa en Python que:
 - Evalúa el tiempo de ejecución del análisis para diferentes valores de `n`, demostrando eficiencia lineal.
 
 📁 El código fuente está disponible en el archivo: [`TP_Integrador.py`](./TP_Integrador.py)
+
 
