@@ -13,7 +13,7 @@ Fecha de entrega: 09/06/2025
 
 ## Usuarios de GitHub
 - **https://github.com/Gomez-Nahuel**
--**https://github.com/JavierGCF**
+- **https://github.com/JavierGCF**
 ---
 
 ## Descripción del Proyecto
@@ -30,8 +30,8 @@ Link del Video en youtube
 
 - ## Descargar archivos
 
-- [Ver/Descargar el Informe PDF](./Trabajo%20Practico%20Integrador%20Prog.pdf)
-- [Ver/Descargar la Presentación PPTX](./Tp%20programaci%C3%B3n.pptx)
+-  [TP Integrador en PDF](./TP%20Integrador%20Prog.pdf)  
+-  [Presentación en PowerPoint](./Tp%20programaci%C3%B3n.pptx)
 
 ## Ver el video
 
